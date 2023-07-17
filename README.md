@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Gusaine</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="file:///Users/rohangusaine/Desktop/untitled%20folder/new/Unbelievable.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV%5BTGx%5D/1-Predictive-Analytics-GIF-for-article.gif>
+<img align="right" alt="Coding" width="400" src="file:///Users/rohangusaine/Desktop/untitled%20folder/new/Unbelievable.S01.COMPLETE.720p.NF.WEBRip.x264-GalaxyTV%5BTGx%5D/1-Predictive-Analytics-GIF-for-article.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusainerohan&label=Profile%20views&color=0e75b6&style=flat" alt="gusainerohan" /> </p>
 
