@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://kaggle.com/rohangusaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rohangusaine" height="30" width="40" /></a>
 <a href="https://medium.com/@rohangusaine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rohangusaine" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohangusaine/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="@rohangusaine" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
